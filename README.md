@@ -15,4 +15,4 @@ Pulling an image will take about 5 minutes, and downloading a model will take ab
 ## Example
 Prompt: `red clouds and servers below`
 
-Result: [click](https://imgtr.ee/images/2024/09/11/821665224b5a3632cfabadae07b0afe8.png)
+Result: [click](https://i.imgur.com/JEL3jSC.png)
